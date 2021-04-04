@@ -1,0 +1,13 @@
+.top-head
+{
+  width: 100%;
+padding: 20px;
+  background-color: aquamarine;
+}
+
+.top, ul ,li{
+  display: inline;
+  padding: 20px;
+  justify-content: end;
+ 
+}
